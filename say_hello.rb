@@ -1,3 +1,4 @@
+a = "Ruby Programmer"
 def say_hello(a)
 puts "Hello #{a}"
 end
