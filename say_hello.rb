@@ -1,6 +1,7 @@
-a = "Ruby Programmer"
 def say_hello(a)
-puts "Hello #{a}"
+  a = "Ruby Programmer"
+  puts "Hello #{a}"
+  
 end
 
 say_hello("keely")
